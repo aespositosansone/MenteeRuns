@@ -14,6 +14,7 @@ class GameScene: SKScene {
     private var spinnyNode : SKShapeNode?
     var backgroundSpeed: CGFloat = 80.0 // speed may vary as you like
     var deltaTime: TimeInterval = 0
+    //jviuygiuvt
     var lastUpdateTimeInterval: TimeInterval = 0
     
     var CameraNode = SKCameraNode()
